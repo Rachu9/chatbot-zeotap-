@@ -21,4 +21,5 @@ Push your code to a GitHub repository.
 Navigate to Settings > Pages in your repository.
 Under Source, select main branch and click Save.
 Access your chatbot at:
-🔗 https://your-username.github.io/chatbot-zeotap/
+ https://rachu9.github.io/chatbot-zeotap-/
+
